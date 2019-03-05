@@ -9,3 +9,54 @@ The work you do in the Sandbox will be saved from lesson to lesson, and is autom
 Please DO NOT touch this repository in GitHub, as it will affect your Sandbox experience, and potentially cause your work to be out of sync.
 
 To learn more about the Sandbox, please visit http://help.learn.co/ide-in-browser#sandbox.
+
+
+const person = {
+  name: "Awsome Name",
+  Occupation: {
+    title : "Seinor Manger of awsome", yearsHeld; 2
+  }
+  pets ; [{
+  kind : 'dog',
+  name : "Fiona"
+  }, {
+    kind : "cat", 
+    name : "Ralph"
+  }]
+}
+
+
+console.log (function {person: [key] : value)
+
+function find (array, cristerpiFn) {
+  for (let i = 0; i < array.length; i++)[
+  if (cirtyerFan (array [i])) {
+    return array [i];
+  }
+}
+
+define function array with cristerpiFn;
+let current = arrya; 
+let next = P[];
+ with while (current) [
+  if currenianFan (current)_ ]
+   return current ;
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
